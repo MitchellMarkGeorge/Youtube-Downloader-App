@@ -1,0 +1,2 @@
+# Youtube-Downloader-App
+For this projects, I used the Tkinter GUI library and the pytube library to create a Youtube Downloader. This app can download any video from Youtube at the highest hisula and audio quality avalible. You can also set a custom path to where you want the video to be downloaded (you can use the actual directory link or can just type in the name like Desktop, Documents etc.). This is a projects that I will continue to work on and maintain in the future. In the meantime, please let me know of any bugs you might find in my code or any ideas you have.
