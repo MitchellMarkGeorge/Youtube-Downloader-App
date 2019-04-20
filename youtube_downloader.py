@@ -4,7 +4,7 @@ import tkinter
 from tkinter import messagebox
 import os
 
-
+# Setting window height and width
 height = 140
 width = 300
 
